@@ -1,16 +1,24 @@
-## Hi there 👋
+# <📒> My bio
 
-<!--
-**Yndefxnd/Yndefxnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## <👤> My name: Yndefxnd
 
-Here are some ideas to get you started:
+---
+## <📅> My years: 14-17
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## <📱> My discord: undefxnd
+
+---
+## <🌍> My country: Russia
+
+---
+## <🕗> Time: 15:00 - 00:00
+
+---
+
+## My langs: JS, HTML, CSS
+
+---
+
+![gif](https://i.pinimg.com/originals/cc/fb/2d/ccfb2d3127798e85c8f889167d59d336.gif)
